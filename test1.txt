@@ -1,0 +1,2 @@
+create new file as working stage
+update to staging state and then to repo 
